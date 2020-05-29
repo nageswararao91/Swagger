@@ -1,0 +1,11 @@
+com\carrier\ServletInitializer.class
+com\carrier\shipment\model\Address.class
+com\carrier\config\SecurityConfig.class
+com\carrier\shipment\model\Country.class
+com\carrier\shipment\model\ShipmentResponse.class
+com\carrier\shipment\model\ShipmentRequest.class
+com\carrier\config\SwaggerSpringFoxImplConfig.class
+com\carrier\config\WebConfig.class
+com\carrier\CarriersApplication.class
+com\carrier\shipment\controller\ShipmentController.class
+com\carrier\shipment\model\Package.class
